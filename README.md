@@ -4,13 +4,6 @@
 
 Programa en Python que convierte un número decimal ingresado por el usuario a su equivalente en binario, mostrando el resultado por pantalla.
 
-El proyecto fue desarrollado siguiendo una estructura de 4 pasos:
-
-1. **Inicializar lista vacía** — Se crea una estructura para almacenar los restos de la conversión.
-2. **Solicitar datos al usuario** — Se pide el número decimal a convertir.
-3. **Calcular el binario** — Se divide sucesivamente el número entre 2, guardando los restos.
-4. **Mostrar resultado** — Se presenta el número binario calculado en pantalla.
-
 ## 📂 Contenido del repositorio
 
 | Archivo | Descripción |
