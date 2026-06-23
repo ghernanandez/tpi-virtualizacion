@@ -31,7 +31,7 @@ El proyecto contempla la instalación y configuración de máquinas virtuales, l
 ├── conversor.py
 ├── Informe_tecnico.pdf
 ├── capturas/
-│   ├── codigo_python/
+│   ├── OVB-ubuntu/
 │   └── KVM-ubuntu-server-26.04-LTS/
 └── README.md
 ```
@@ -43,8 +43,8 @@ El proyecto contempla la instalación y configuración de máquinas virtuales, l
 | `conversor.py` | Programa para convertir números decimales a binarios. |
 | `Informe_tecnico.pdf` | Informe técnico completo del proyecto. |
 | `capturas/` | Evidencias visuales del desarrollo y resultados. |
-| `capturas/codigo_python/` | Capturas de ejecución del programa. |
-| `capturas/KVM-ubuntu-server-26.04-LTS/` | Capturas del proceso de instalación y configuración de la máquina virtual. |
+| `capturas/OVB-ubuntu/` | Capturas del proceso de instalación y configuración de la máquina virtual (Virtual Box). |
+| `capturas/KVM-ubuntu-server-26.04-LTS/` | Capturas del proceso de instalación y configuración de la máquina virtual (KVM). |
 | `README.md` | Documentación principal del repositorio. |
 
 ---
