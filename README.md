@@ -29,7 +29,7 @@ El proyecto contempla la instalación y configuración de máquinas virtuales, l
 ```text
 .
 ├── conversor.py
-├── Informe_tecnico.pdf
+├── TPI_Arquitectura_SO.pdf
 ├── capturas/
 │   ├── OVB-ubuntu/
 │   └── KVM-ubuntu-server-26.04-LTS/
@@ -41,7 +41,7 @@ El proyecto contempla la instalación y configuración de máquinas virtuales, l
 | Archivo / Carpeta | Descripción |
 |------------------|-------------|
 | `conversor.py` | Programa para convertir números decimales a binarios. |
-| `Informe_tecnico.pdf` | Informe técnico completo del proyecto. |
+| `TPI_Arquitectura_SO.pdf` | Informe técnico completo del proyecto. |
 | `capturas/` | Evidencias visuales del desarrollo y resultados. |
 | `capturas/OVB-ubuntu/` | Capturas del proceso de instalación y configuración de la máquina virtual (Virtual Box). |
 | `capturas/KVM-ubuntu-server-26.04-LTS/` | Capturas del proceso de instalación y configuración de la máquina virtual (KVM). |
@@ -159,5 +159,5 @@ Trabajo Integrador – Arquitectura y Sistemas Operativos
 
 ##  🔗 Link
 
-[Video: ](https://youtube.com)
-<https://youtube.com>
+[Video: ](https://www.youtube.com/watch?v=LXr8kYkU2GU)
+<https://www.youtube.com/watch?v=LXr8kYkU2GU>
